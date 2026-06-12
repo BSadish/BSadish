@@ -41,8 +41,8 @@ I am a passionate and results-driven Full-Stack Developer with a strong foundati
 
 ### 🤝 Connect with Me
 
-* **LinkedIn:** [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sadish-panta-686547237/))
-* **Email:** (sadishpanta404@gmail.com)
+* **LinkedIn:** https://www.linkedin.com/in/sadish-panta-686547237/
+* **Email:** sadishpanta404@gmail.com
 
 
 ⚡ *“First, solve the problem. Then, write the code.”*
