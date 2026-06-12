@@ -27,10 +27,9 @@ I am a passionate and results-driven Full-Stack Developer with a strong foundati
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=visual_studio_dark&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BSadish&show_icons=true&theme=visual_studio_dark&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BSadish&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="180px" />
 </p>
-
 ---
 
 ### 🎯 Current Focus & Goals
@@ -42,8 +41,8 @@ I am a passionate and results-driven Full-Stack Developer with a strong foundati
 
 ### 🤝 Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev)
+* **LinkedIn:** [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sadish-panta-686547237/))
+* **Email:** [your.email@example.com](sadishpanta404@gmail.com)
+
 
 ⚡ *“First, solve the problem. Then, write the code.”*
